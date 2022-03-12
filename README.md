@@ -3,7 +3,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## api react
-klik link [api crud](https://github.com/selamatriadydev/crud_react_laravel_frontend)
+klik link [api crud](https://github.com/selamatriadydev/crud_react_laravel_api)
 
 ## Available Scripts
 
